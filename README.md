@@ -14,5 +14,4 @@ pip install foobar
 
 Open a Jupyter Notebook and import the file .ipynb
 
-```
 
