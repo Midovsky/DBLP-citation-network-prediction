@@ -12,12 +12,7 @@ pip install foobar
 
 ## Usage
 
-```python
-
 Open a Jupyter Notebook and import the file .ipynb
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
 ```
 
