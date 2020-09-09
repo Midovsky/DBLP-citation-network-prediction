@@ -2,14 +2,6 @@
 
 This project helps prediction of DBLP citation network using LDA model.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## Steps of project
 
 <ol>
@@ -17,7 +9,7 @@ pip install foobar
 <li>Apply PageRank algorithm and sort nodes (choose a number of top nodes)</li>
 <li>For every node in top nodes, create the ego centric graph and then fusion these graphs in order to obtain the Ginf Graph</li>
 <!-- <li>Create Ginf graph for every top nodes by aggregating the ego centric graphs of this top nodes </li> -->
-<li>Apply LDA method</li>
+<li>Apply LDA model</li>
 </ol> 
 
 ## Usage
@@ -25,3 +17,8 @@ pip install foobar
 Open a Jupyter Notebook and import the file .ipynb
 
 
+## LDA
+
+Latent Dirichlet Allocation (LDA) is an unsupervised machine-learning model used to classify text in a document to a particular topic. It builds a topic per document model and words per topic model, modeled as Dirichlet distributions.
+
+More details about LDA in [a https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24]this link : 
