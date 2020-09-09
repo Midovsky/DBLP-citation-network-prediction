@@ -14,7 +14,7 @@ pip install foobar
 
 <ol>
 <li>Create DBLP citation network in form of graph</li>
-<li>Apply PageRank algorithm and sort nodes (choose a number of nodes)</li>
+<li>Apply PageRank algorithm and sort nodes (choose a number of top nodes)</li>
 <li>For every node in top nodes, create the ego centric graph and then fusion these graphs in order to obtain the Ginf Graph</li>
 <!-- <li>Create Ginf graph for every top nodes by aggregating the ego centric graphs of this top nodes </li> -->
 <li>Apply LDA method</li>
