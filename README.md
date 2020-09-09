@@ -1,6 +1,6 @@
 # DBLP-citation-network-prediction
 
-This project helps prediction of DBLP citation network.
+This project helps prediction of DBLP citation network using LDA model.
 
 ## Installation
 
