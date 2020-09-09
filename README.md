@@ -21,4 +21,4 @@ Open a Jupyter Notebook and import the file .ipynb
 
 Latent Dirichlet Allocation (LDA) is an unsupervised machine-learning model used to classify text in a document to a particular topic. It builds a topic per document model and words per topic model, modeled as Dirichlet distributions.
 
-More details about LDA in [this link](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) 
+More details about LDA (explanation and how to implement it) in [this link](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24) 
