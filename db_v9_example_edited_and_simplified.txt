@@ -1,0 +1,184 @@
+#*Approximate Distance Oracles with Improved Query Time.
+#@Christian Wulff-Nilsen
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f954149ffc
+#%555036b37cea80f954149ffd
+#%555036b37cea80f954149ffe
+#!Example of abstract added by me
+
+#*Subset Sum Algorithm for Bin Packing.
+#@Julián Mestre
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f954149ffd
+#%555036b37cea80f954149ffe
+#%555036b37cea80f95414a001
+
+#*Minimum Weighted Completion Time.
+#@V. S. Anil Kumar, Madhav V. Marathe, Srinivasan Parthasarathy, Aravind Srinivasan
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f954149ffe
+
+#*Multiple String Matching.
+#@Maxime Crochemore, Thierry Lecroq
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f954149fff
+
+#*Fault-Tolerant Connected Dominating Set.
+#@Donghyun Kim, Wei Wang, Weili Wu, Alade O. Tokuta
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a000
+
+#*Alternative Performance Measures in Online Algorithms.
+#@Alejandro López-Ortiz
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a001
+
+#*AMS Sketch.
+#@Graham Cormode
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a002
+
+#*Nowhere Crownful Classes of Directed Graphs.
+#@Stephan Kreutzer
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a003
+
+#*Succinct and Compressed Data Structures for Permutations and Integer Functions.
+#@Jérémy Barbay
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a004
+
+#*Surface Reconstruction.
+#@Nina Amenta
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a005
+
+#*Regular Expression Matching.
+#@Lucian Ilie
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a006
+
+#*Maximizing the Minimum Machine Load.
+#@Csanád Imreh
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a007
+
+#*Multitolerance Graphs.
+#@George B. Mertzios
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a008
+
+#*Max-Min Allocation.
+#@Deeparnab Chakrabarty
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a009
+
+#*Minimal Dominating Set Enumeration.
+#@Mamadou Moustapha Kanté, Lhouari Nourine
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a00a
+
+#*Smooth Surface and Volume Meshing.
+#@Tamal Krishna Dey
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a00b
+
+#*Hierarchical Space Decompositions for Low-Density Scenes.
+#@Mark de Berg
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a00c
+
+#*Robotics.
+#@Elmar Langetepe
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a00d
+
+#*Algorithm DC-TREE for k -Servers on Trees.
+#@Marek Chrobak
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a00e
+
+#*Graph Coloring.
+#@Michael Langberg, Chandra Chekuri
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a00f
+
+#*Kernelization: MaxLin Above Average.
+#@Anders Yeo
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a010
+
+#*Connected Dominating Set.
+#@Feng Wang, Ding-Zhu Du, Xiuzhen Cheng
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a011
+
+#*Strongly Connected Dominating Set.
+#@Zhang Zhao
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a012
+
+#*Closest String and Substring Problems.
+#@Lusheng Wang, Ming Li, Bin Ma
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a013
+
+#*Ski Rental Problem.
+#@Mark S. Manasse
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a014
+
+#*Secretary Problems and Online Auctions.
+#@MohammadHossein Bateni
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a015
+
+#*Efficient Dominating and Edge Dominating Sets for Graphs and Hypergraphs.
+#@Andreas Brandstädt, Ragnar Nevries
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a016
+
+#*The Wake-Up Problem in Multi-Hop Radio Networks.
+#@Tomasz Jurdzinski, Dariusz R. Kowalski
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a017
+
+#*Online Interval Coloring.
+#@Leah Epstein
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a018
+
+#*Single and Multiple Buffer Processing.
+#@Sergey I. Nikolenko, Kirill Kogan
+#t2015
+#cEncyclopedia of Algorithms
+#index555036b37cea80f95414a019
